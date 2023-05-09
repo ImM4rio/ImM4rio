@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mario!
 - 👀 I’m interested in programming, sports and lifestyle
-- 🌱 I’m currently learning some lenguages like java, python, javascript, php...
+- 🌱 Fullstack developer
 - 📫 You can reach me ... :
   Email: mario.vazquez.otero@gmail.com
   Instagram: https://www.instagram.com/mario_vazot/
